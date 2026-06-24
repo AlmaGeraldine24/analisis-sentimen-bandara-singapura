@@ -1,4 +1,4 @@
-# Analisis Sentimen Bandara Singapura — End-to-End Pipeline
+# YouTube Comment Sentiment Analysis — End-to-End Pipeline
 
 Repositori ini berisi dokumentasi lengkap dan kode untuk melakukan analisis sentimen terhadap maskapai **Singapore Airlines** sebagai indikator kualitas layanan di Bandara Changi Singapura. Proyek ini mencakup seluruh alur data (*pipeline*) mulai dari pengumpulan data (*scraping*) dari YouTube, pembersihan teks, pelabelan otomatis, ekstraksi fitur, hingga pelatihan dan evaluasi model *Machine Learning*.
 
